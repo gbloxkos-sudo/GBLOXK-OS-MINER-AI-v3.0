@@ -491,10 +491,7 @@ ai_bitcoin_miner/
 
 ---
 
-## License
-
-MIT License - See LICENSE file for details.
-
+.
 ---
 
 ## Support
